@@ -20,7 +20,7 @@
 | **Project Type** | Final Year B.Tech Project |
 | **Group** | Group 79 |
 | **Supervisor** | Ms. Sweety Pal |
-| **Contributors** | Sadaf, | Sachin, | Tanveer
+| **Contributors** | Sadaf | Sachin | Tanveer
 
 ---
 
