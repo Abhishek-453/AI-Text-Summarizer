@@ -20,7 +20,7 @@
 | **Project Type** | Final Year B.Tech Project |
 | **Group** | Group 79 |
 | **Supervisor** | Ms. Sweety Pal |
-| **Contributors** | Sachin Yadav, Himanshu Yadav |
+| **Contributors** | Sadaf, | Sachin, | Tanveer
 
 ---
 
